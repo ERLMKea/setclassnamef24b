@@ -16,3 +16,56 @@
     border-radius: 5px;
     font-size: 16px;
 }
+
+body {
+    background-color: #b3ff00;
+}
+
+.btn2 {
+    border: none;
+    background-color: #64e340;
+    color: #4f72cb;
+    font-size: 8;
+    font-family: inherit;
+    padding: 1rem 1rem;
+    cursor: pointer;
+}
+
+.btn3 {
+    border-style: solid;
+    border-color: red;
+    background-color: #0000ff;
+    color: #4f72cb;
+    font-size: 18px;
+    font-family: inherit;
+    padding: 1rem 1rem;
+    cursor: pointer;
+}
+
+.btn4 {
+    background-color: #0000ff;
+    color: #ff0000;
+    font-size: 18px;
+    font-family: inherit;
+    padding: 1rem 1rem;
+    cursor: pointer;
+}
+
+.notshow {
+    display: none;
+}
+
+.padding {
+    background-color: #0000ff;
+    color: #ff0000;
+    font-size: 18px;
+    font-family: inherit;
+    padding: 10rem 10rem;
+    cursor: pointer;
+}
+
+
+.first {
+    font-family: Arial;
+    font-size: 10px;
+}
